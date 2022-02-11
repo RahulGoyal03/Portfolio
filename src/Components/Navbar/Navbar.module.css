@@ -117,7 +117,7 @@
 }
 @media screen and (max-width: 850px) {
   .links a {
-    margin: 0 32px;
+    margin: 0px 17px;
     transition: 0.3s;
   }
 }

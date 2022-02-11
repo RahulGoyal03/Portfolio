@@ -69,6 +69,7 @@ const Navbar = () => {
 				>
 					<a  href='#home'>Home</a>
 					<a  href='#about'>About</a>
+					<a href='#techStacks'>Proficiencies</a>
 					<a href='#projects'>Projects</a>
 
 					<a href='#contact'>Contact</a>
